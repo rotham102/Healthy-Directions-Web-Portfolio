@@ -1,1 +1,1 @@
-hd-web-portfolio
+Hi there! This repository contains a collection of responsive banners and emails that I worked on while employeed with Healthy Directions. They were used on their site and sent out to their customer base the advertise their supplements. 
